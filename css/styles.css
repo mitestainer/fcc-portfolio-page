@@ -514,7 +514,7 @@ input[type='submit'] {
     border-bottom: 0;
   }
   .content {
-    height: 80vh;
+    height: 80%;
     position: relative;
     overflow: auto;
   }
