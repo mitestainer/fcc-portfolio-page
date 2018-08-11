@@ -488,7 +488,7 @@ input[type='submit'] {
 
 @media screen and (max-width:485px) {
   #navbar {
-    height: auto;
+    height: 20vh;
     position: relative;
   }
   #upper {
@@ -514,7 +514,7 @@ input[type='submit'] {
     border-bottom: 0;
   }
   .content {
-    height: 80%;
+    height: 80vh;
     position: relative;
     overflow: auto;
   }
