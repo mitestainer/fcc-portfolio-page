@@ -493,7 +493,6 @@ input[type='submit'] {
   }
   #upper {
     flex-direction: column;
-    margin: 0;
   }
   #upper img {
     display: none;
