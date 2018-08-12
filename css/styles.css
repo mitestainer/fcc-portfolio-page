@@ -113,7 +113,7 @@ h2 {
   margin-left: 16rem;
 }
 .cp {
-  padding: 2rem 1.25rem 3rem;
+  padding: 3rem;
   display: flex;
   flex-direction: column;
 }
@@ -437,6 +437,9 @@ input[type='submit'] {
   .content {
     margin-left: 0;
   }
+  .cp {
+    padding: 4.5rem 3rem;
+  }
   .title-vp {
     display: inline;
   }
@@ -518,6 +521,9 @@ input[type='submit'] {
     height: 80vh;
     position: relative;
     overflow: auto;
+  }
+  .cp {
+    padding: 2rem 1.5rem;
   }
   #welcome-section {
     padding-top: 4rem;
