@@ -7,6 +7,7 @@
   <link rel="stylesheet" type="text/css" href="css/styles.css" />
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous" />
   <link href="https://fonts.googleapis.com/css?family=Average+Sans" rel="stylesheet" />
+
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-123741446-1"></script>
   <script>
@@ -16,6 +17,8 @@
 
   gtag('config', 'UA-123741446-1');
 </script>
+<!-- GA end -->
+
 </head>
 <body>
   <div class="container">
@@ -56,9 +59,12 @@
   </div>
 </nav>
 
-<!-- Content -->
+<!-- Main -->
 
 <div class="content">
+
+  <!-- Welcome -->
+
   <div id="welcome-section" class="cp">
     <div class="box">
       <h1>mitestainer<span class="title-vp">'s</span></h1>
@@ -70,10 +76,13 @@
   </div>
   <div id="about-me" class="cp">
     <h2>About me</h2>
-    <p>Digital marketing entusiast. gotta put google analytics in here. been coding since nine but for some reason stopped...</p>
+    <p>Thanks for stopping by. This is the place where you can find my projects and get to know me better. I'm 26, Brazilian (can't play soccer well though), digital marketing enthusiast and tech geek. Wrote my first line of code when I was nine (it was my name inside a h1 tag lol) and spent some years playing around with the pages I used to save from the internet - I kind of liked making them look the way I wanted.</p>
     <img src="https://media.giphy.com/media/Cz6TlrRVVyv9S/giphy.gif" alt="Yelling at a nerd" />
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi eius unde aut beatae neque, ipsum veniam consequatur praesentium illum dicta, voluptates non temporibus officia reiciendis repellat minima. Iusto, vero, architecto.</p>
+    <p>Eventually, I stopped coding for some reason until I got back at the beginning of 2018. I rediscovered how fascinating coding can be. Now I can not just write on plain HTML, but I can style my pages using CSS and I'm also giving my first steps into JS. Hopefully, I'll get even better at this as the time goes by!</p>
   </div>
+
+  <!-- Projects -->
+
   <div id="projects" class="cp">
     <h2>Portfolio</h2>
     <p id="disclaimer">The scope of the following projects is purely educational/recreational. The content is either fictional or it was reproduced from other websites. All the images used on the projects below were found on the internet and all the rights are reserved to their owners.</p>
@@ -81,16 +90,16 @@
       <h3>freeCodeCamp projects</h3>
       <div class="project-wrapper">
         <div class="project-tile">
-          <div class="project-img">
+          <a class="project-img" href="https://mitestainer.github.io/fcc-tribute-page/" target="_blank">
             <img src="images/maserati1.png" class="slide1" alt="Tribute Page"/>
             <img src="images/maserati2.png" class="slide2" alt="Tribute Page"/>
             <img src="images/maserati3.png" class="slide3" alt="Tribute Page"/>
-          </div>
-          <p class="project-name name-fix">Tribute Page</p>
+          </a>
+          <a class="project-name name-fix" href="https://mitestainer.github.io/fcc-tribute-page/" target="_blank">Tribute Page</a>
           <p class="update"><span>Last uptade:</span> Aug 05, 2018. </p>
           <hr class="dash" />
           <div class="project-tab">
-            <a href="#" title="Check the source code on Github" target="_blank">
+            <a href="https://github.com/mitestainer/fcc-tribute-page/" title="Check the source code on Github" target="_blank">
               <i class="fab fa-github-square fa-2x"></i>
             </a>
             <a href="https://codepen.io/matheus3031/pen/vjLjMK/" title="Open on Codepen" target="_blank">
@@ -247,6 +256,9 @@
       </div>
     </div>
   </div>
+
+  <!-- Contact -->
+
   <div id="contact" class="cp">
     <h2>Contact</h2>
     <p>Did you find a bug in one of my pages? <i class="fas fa-bug"></i><br />Or just wanna buy me a coffee? <i class="fas fa-coffee"></i><br />Send me a message and let's get in touch!</p>
@@ -257,6 +269,9 @@
       <input type="submit" value="Send!" onclick="alert('Obviously this is not working yet, but thanks for trying to get in touch with me!\nInstead, why don\'t you reach me out on one of my social networks?')" />
     </form>
   </div>
+
+  <!-- Small screen footer -->
+
   <div class="footer title-vp">
     <p>
       &copy; <span>mitestainer</span> 2018
@@ -278,7 +293,6 @@
       </span>
     </div>
   </div>
-
 </div>
 </div>
 </body>
