@@ -499,6 +499,7 @@ input[type='submit'] {
   #upper p {
     display: inline;
     font-size: 0.75rem;
+    align-self: center;
   }
   .hamburger {
     text-align: right;
@@ -565,6 +566,9 @@ input[type='submit'] {
   }
   .footer {
     flex-direction: column;
+  }
+  .footer p {
+    margin-bottom: 0.5rem;
   }
   .social {
     width: 80%;
