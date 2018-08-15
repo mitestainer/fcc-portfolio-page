@@ -499,7 +499,6 @@ input[type='submit'] {
   #upper p {
     display: inline;
     font-size: 0.75rem;
-    align-self: center;
   }
   .hamburger {
     text-align: right;
