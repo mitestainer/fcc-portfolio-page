@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://mitestainer.github.io/</loc>
+  <lastmod>2018-08-16T20:02:38+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://mitestainer.github.io/fcc-tribute-page/</loc>
+  <lastmod>2018-08-12T15:47:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mitestainer.github.io/fcc-survey-form/</loc>
+  <lastmod>2018-08-12T15:31:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mitestainer.github.io/fcc-landing-page/</loc>
+  <lastmod>2018-08-12T15:31:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mitestainer.github.io/fcc-documentation-page/</loc>
+  <lastmod>2018-08-12T15:24:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mitestainer.github.io/blood-donation/</loc>
+  <lastmod>2018-08-12T15:29:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mitestainer.github.io/one-million-lines/</loc>
+  <lastmod>2018-08-16T20:01:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mitestainer.github.io/unik-version/</loc>
+  <lastmod>2018-08-12T15:30:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mitestainer.github.io/crowdfunding-campaign/</loc>
+  <lastmod>2018-08-12T15:30:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
